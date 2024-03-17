@@ -1,0 +1,76 @@
+body{
+    background-color: green;
+}
+.nav{
+    height: 50px;
+    width: 1250px;
+    background-color:rgb(15, 52, 15);
+    position: fixed;
+}
+button{
+    background-color:rgb(178, 65, 65);
+}
+
+.na{
+    position: relative;
+    
+    left: 30px;
+    margin-left: 80px;
+    margin-top: 20px;
+    margin-top: 20px;
+    color: aliceblue;
+    
+}
+*{
+    text-decoration: none;
+    
+}
+.bac{
+    height: 400px;
+    width: 1250px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-image: url("keer.jpg");
+}
+p{
+    margin-left: 600px;
+    margin-right: 500px;
+    border: 4px solid;
+    background-color: aquamarine;
+}
+.pl{
+    height: 200px;
+    
+}
+.pla{
+    height: 200px;
+    width: 200px;
+    border: 2px solid ;
+    display: inline-block;
+    margin-left: 75px;
+}
+img{
+    height: 100%;
+    width: 100%;
+    object-fit: contain; 
+    background-color: white;
+}
+.b{
+    display: inline-block;
+    margin-left: 165px;
+}
+.c{
+    height: 20PX;
+    background-color:rgb(8, 33, 8);
+}
+.d{
+    margin-left: 110px;
+}
+.e{
+    height: 200px;
+    background-color:black;
+
+}
+a{
+    color: white;
+}
